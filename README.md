@@ -9,8 +9,8 @@ Este repositorio contiene el código para un probador aleatorio desarrollado usa
 Para utilizar la aplicacion, tendrá que seguir estos pasos:
 - Descargar el archivo Zip y descomprimir la carpeta en su máquina 
 - Asegurese de tener instalado cyprees correctameneyte y sus dependencias, sino es asi, seguir el tutorail contenido en la siguiente pagina https://thesoftwaredesignlab.github.io/AutTestingCodelabs/cypress-tutorial/index.html#0
-- Asegurese que el archivo monkey_testing.cy.js es el unico en la carpeta desarrollo_monkey-master.zip\desarrollo_monkey-master\cypress\e2e
--  Ejecutar la aplicacion: El comando para ejecutar las pruebas deben ejecutarse desde la carpeta raíz desarrollo_monkey , así que no olvide cambiarse a este directorio . Ejecute el comando cypress run --headed si desea ver la prueba ejecutandose en el navegados o cypress run --headless si no lo desea. 
+- Asegurese que el archivo monkey_testing.cy.js es el unico en la carpeta desarrollo_monkey-master\desarrollo_monkey-master\cypress\e2e
+-  Ejecutar la aplicacion: El comando para ejecutar las pruebas deben ejecutarse desde la carpeta raíz desarrollo_monkey-master , así que no olvide cambiarse a este directorio . Ejecute el comando cypress run --headed si desea ver la prueba ejecutandose en el navegados o cypress run --headless si no lo desea. 
 
 ## The testers
 Cypress es una aplicacion de pruebas E2E construido sobre JavaScript. Utiliza esta tecnología debido a la facilidad para la gestión de páginas web en una variedad de navegadores, incluyendo Chrome, Canarias, Edge, electrón, etc. y la funcionalidad de registro y reproducción. 
