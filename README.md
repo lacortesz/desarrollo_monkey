@@ -21,5 +21,5 @@ Cypress es una aplicacion de pruebas E2E construido sobre JavaScript. Utiliza es
 - Seleccionar un combo al azar
 - Hacer click en un botón al azar
 
-## Results
-Cuando la prueba termine de ejecutarse, se generará un informe HTML y un video de la ejecución en un navegador en la carpeta de resultados.
+## Resultados
+Cuando la prueba termine de ejecutarse, se generará un un video de la ejecución en un navegador en la carpeta desarrollo_monkey/cypress/videos/.
